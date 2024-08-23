@@ -9,6 +9,7 @@ namespace X1
             Console.WriteLine("123");
             Console.WriteLine("1234");
             Console.WriteLine("3+2");
+            Console.WriteLine("不小心刪掉主宇宙了ㄟ黑OVO");
         }
     }
 }
