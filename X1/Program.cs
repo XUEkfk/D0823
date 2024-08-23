@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace X1
+{
+    internal class Program
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("123");
+        }
+    }
+}
